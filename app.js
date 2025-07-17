@@ -10,5 +10,8 @@ function div(a,b) {
     return a/b;
 }
 
+function print(){
+    console.log("Hey this is pranshu");
+}
 
-console.log(div(10,20));
+print();
